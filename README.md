@@ -28,4 +28,4 @@ Análisis de siniestros viales en la provincia de Santa Fe, integrando datos tab
 * **Archivo principal:** `03-accidentes-transito-santafe/analisis_accidentes.ipynb`.
 
 ---
-*Proyectos desarrollados en las cátedras de Análisis de Datos y Probabilidad y Estadística.*
+*Proyectos desarrollados en las cátedras de Programación 2, Probabilidad y Estadística y Fundamentos de Ciencias de Datos.*
